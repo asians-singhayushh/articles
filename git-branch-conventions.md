@@ -15,7 +15,7 @@ We should have two evergreen branches:
   
     ```
     git checkout -b feature-JIRA-01 develop
-    git merge --no-ff myfeature
+    git merge --no-ff feature-JIRA-01
     ```
 
 - Release Branches:
